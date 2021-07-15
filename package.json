@@ -41,7 +41,7 @@
     "@glimmerx/component": "0.3.0",
     "@glimmerx/core": "0.3.0",
     "@glimmerx/eslint-plugin": "^0.4.2",
-    "@glimmerx/helper": "0.3.0",
+    "@glimmerx/helper": "0.6.5",
     "@glimmerx/modifier": "0.3.0",
     "@microsoft/api-documenter": "^7.12.9",
     "@microsoft/api-extractor": "^7.13.2",
