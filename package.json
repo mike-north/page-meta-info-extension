@@ -39,7 +39,7 @@
     "@glimmer/env": "0.1.7",
     "@glimmerx/babel-plugin-component-templates": "0.3.0",
     "@glimmerx/component": "0.3.0",
-    "@glimmerx/core": "0.3.0",
+    "@glimmerx/core": "0.6.5",
     "@glimmerx/eslint-plugin": "^0.4.2",
     "@glimmerx/helper": "0.3.0",
     "@glimmerx/modifier": "0.3.0",
